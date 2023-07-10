@@ -5,7 +5,10 @@ pipeline {
         stage('Git Checkout'){
             steps {
                 script{
-                    git 'https://github.com/karthi770/Java_app.git'
+                    gitCheckout(
+                        branch: '*/master',
+                        url: 'https://github.com/karthi770/Jenkins_shared_library.git'
+                    )
                 }
             }
         }
