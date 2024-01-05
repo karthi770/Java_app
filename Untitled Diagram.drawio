@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T17:39:35.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="6V3iikUmy9pPVLXXXA6G" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T17:41:11.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="mUngPkf_4aaITBeEcUEL" version="22.1.16" type="github">
   <diagram name="Page-1" id="6133507b-19e7-1e82-6fc7-422aa6c4b21f">
     <mxGraphModel dx="836" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -116,8 +116,14 @@
         <mxCell id="iIfC8xBcqncdaPOjHDso-6" value="Catalogue" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iIfC8xBcqncdaPOjHDso-4">
           <mxGeometry y="52" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="iIfC8xBcqncdaPOjHDso-7" value="Database (Data Layer)" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iIfC8xBcqncdaPOjHDso-4">
+        <mxCell id="iIfC8xBcqncdaPOjHDso-7" value="Rating" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iIfC8xBcqncdaPOjHDso-4">
           <mxGeometry y="78" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iIfC8xBcqncdaPOjHDso-12" value="Cart" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="110" y="324" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iIfC8xBcqncdaPOjHDso-13" value="Payment" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="200" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
