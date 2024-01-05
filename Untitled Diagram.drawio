@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T18:00:36.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="11xRywNuWgJOSndR3mUq" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T18:02:24.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="hhK-aYj4ajD8hKeH2Lbz" version="22.1.16" type="github">
   <diagram name="Page-1" id="6133507b-19e7-1e82-6fc7-422aa6c4b21f">
-    <mxGraphModel dx="548" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="662" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,14 +54,30 @@
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="iIfC8xBcqncdaPOjHDso-25" value="Database " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="270" width="80" height="30" as="geometry" />
+        <mxCell id="iIfC8xBcqncdaPOjHDso-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIfC8xBcqncdaPOjHDso-26" target="iIfC8xBcqncdaPOjHDso-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iIfC8xBcqncdaPOjHDso-26" value="Database " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="310" width="80" height="30" as="geometry" />
+          <mxGeometry x="820" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iIfC8xBcqncdaPOjHDso-27" value="In-memory Data Store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="350" width="80" height="30" as="geometry" />
+          <mxGeometry x="820" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIfC8xBcqncdaPOjHDso-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIfC8xBcqncdaPOjHDso-27" target="iIfC8xBcqncdaPOjHDso-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="350" as="sourcePoint" />
+            <mxPoint x="740" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIfC8xBcqncdaPOjHDso-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIfC8xBcqncdaPOjHDso-26" target="iIfC8xBcqncdaPOjHDso-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="285" as="sourcePoint" />
+            <mxPoint x="770" y="267" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="275" />
+              <mxPoint x="790" y="283" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
